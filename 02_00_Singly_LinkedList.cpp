@@ -28,6 +28,4 @@ int main(){
 		temp2=temp2->next;
 	}
 
-
-
 }
